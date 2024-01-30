@@ -1,4 +1,4 @@
 #Requirements
 numpy
 wandb
-sklearn
+scikit-learn
