@@ -8,7 +8,7 @@ This repository contains an experimentation project from the Data Science class 
 
 The experimentation results can be viewed in detail on the Weights & Biases dashboard. This includes various performance metrics such as accuracy, along with the hyperparameters used for each experiment.
 
-🔗 [View Experimentation Results]([https://api.wandb.ai/links/demstalfer/qnqgjsqc](https://wandb.ai/drsoler94/vinitoupgrade/reports/GradientBoosting-Wine-classification-with-Wandb--Vmlldzo2NjgyNTE5)
+🔗 [View Experimentation Results](https://wandb.ai/drsoler94/vinitoupgrade/reports/GradientBoosting-Wine-classification-with-Wandb--Vmlldzo2NjgyNTE5)
 
 ## Problem Description
 
