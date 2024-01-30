@@ -52,7 +52,7 @@ This combination of hyperparameters allowed the Gradient Boosting Classifier to 
 
 ## Running the Code
 
-To run the code, first, ensure you have all the dependencies installed:
+To run the code, first, ensure you have all the dependencies installed: read requirements
 
 ## Contributions
 
